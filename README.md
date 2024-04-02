@@ -12,3 +12,12 @@
     - The player it goes to first
 - Displays time
 - Displays each players score 
+
+# The Pong Folder:
+ - Contains a distributable `.exe` application file
+ - The entire Pong folder must be downloaded in order for the whole thing to work
+ - To Run:
+    - Double click on the application file
+    - If you get a popup saying "Windows protected your PC" or something like that just press "See more" and "Run anyway"
+    - It should run after that
+    - If it doesn't, be sure that you have everything correctly installed 
