@@ -1,0 +1,6 @@
+player 1:
+30
+player 2:
+40
+time:
+12
